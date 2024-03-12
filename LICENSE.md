@@ -1,4 +1,4 @@
-                                 Apache License
+                                 Public And Private Licence
                            Version 
                         http://www.apache.org/licenses/
 
